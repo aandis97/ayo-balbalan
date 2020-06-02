@@ -1,0 +1,101 @@
+.form-modal {
+    padding: 0px 15px;
+}
+
+.mb-0 {
+    margin-bottom: 0px !important;
+}
+
+.mb-5 {
+    margin-bottom: 5px !important;
+}
+
+.mb-10 {
+    margin-bottom: 10px !important;
+}
+
+.mt-0 {
+    margin-top: 0px !important;
+}
+
+.mt-5 {
+    margin-top: 5px !important;
+}
+
+.mt-10 {
+    margin-top: 10px !important;
+}
+
+
+.mr-0 {
+    margin-right: 0px !important;
+}
+
+.mr-5 {
+    margin-right: 5px !important;
+}
+
+.mr-10 {
+    margin-right: 10px !important;
+}
+
+.ml-0 {
+    margin-left: 0px !important;
+}
+
+.ml-5 {
+    margin-left: 5px !important;
+}
+
+.ml-10 {
+    margin-left: 10px !important;
+}
+
+.mmr-5 {
+    margin-right: -5px !important;
+}
+
+.mmr-10 {
+    margin-right: -10px !important;
+}
+
+.mml-5 {
+    margin-left: -5px !important;
+}
+
+.mml-10 {
+    margin-left: -10px !important;
+}
+
+.modal-header {
+    border-bottom-color: #white;
+    background: #222d32;
+    color: white;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+
+.modal-header button {
+    color: white;
+}
+
+
+.is-invalid {
+    border: 1px solid red;
+}
+
+.is-valid {
+    border: 1px solid #ccc;
+
+}
+
+
+@media (min-width: 1200px) {
+    .modal-xl {
+        width: 1170px;
+    }
+}
+.modal-xl {
+    width: 1170px;
+}
